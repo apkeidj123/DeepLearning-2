@@ -1,5 +1,5 @@
 # DeepLearning-2
-Deep learning Model: Deep Neural Network
+## Deep learning Model: Deep Neural Network
 
 1. Classification
 * Implement a DNN model for multi-class classification using Data.csv. The objective in this exercise is to create and train a neural network to identify Activities Types automatically. Split the data into training (80%) and validation (20%) data.
