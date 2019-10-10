@@ -8,13 +8,17 @@ Deep learning Model: Deep Neural Network
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/Adam/2019-04-20_130128.png)
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/Adam/2019-04-20_130135.png)
 * Compare with different optimizers (Gradient descent, Ada-grad)
+
 Gradient descent
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/GD/2019-04-20_133209.png)
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/GD/2019-04-20_133216.png)
+
 Adagrad
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/Adagrad/2019-04-20_140458.png)
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/Adagrad/2019-04-20_140508.png)
+
 * Visualize the validation set through PCA and plot the data using 2 principal components.
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/Adam/2019-04-20_130145.png)
+
 * Project the validation set onto a 2D space by t-SNE.
 ![image](https://github.com/apkeidj123/DeepLearning-2/blob/master/Adam/2019-04-20_130157.png)
