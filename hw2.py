@@ -22,8 +22,8 @@ y_test2 = test_set2['Activities_Types'].values
 #print(df[:10]) # 5508*69
 d = pd.get_dummies(df['Activities_Types'])
 
-df.drop(['Activities_Types'], axis=1,inplace=True) # inplace=True 消除原始資料
-#res = pd.concat([df, d], axis=1)  # axis 0: 對行操作; 1: 對列操作
+df.drop(['Activities_Types'], axis=1,inplace=True) # inplace=True (delete original data)
+#res = pd.concat([df, d], axis=1)  # axis 0: (do with column); 1: (do with row)
 
 train_set = df[:4400].copy()
 test_set = df[4400:5508].copy()
